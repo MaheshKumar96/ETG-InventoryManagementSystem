@@ -1,6 +1,6 @@
 # ETG-InventoryManagementSystem
 Json-based-IMS -inventory management system where you can check the stock, billing, total inventory price.
-##Introduction:
+## Introduction:
 The inventory management system helps to track the purchases made and keep a record of the stock left. We can also generate bills in an efficient wau using Inventory Management System.
 
 This project is mainly divided into two files:
